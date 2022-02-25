@@ -5,7 +5,7 @@
 #include <ArduinoJson.h>
 #include <WiFiManager.h>
 
-#define BOTtoken "5074197484:AAGjQGwjmBPlmB9wGU9_H8zJQiAf75-1aeU"
+#define BOTtoken "your telegram bot token"
 
 X509List cert(TELEGRAM_CERTIFICATE_ROOT);
 
